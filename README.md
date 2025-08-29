@@ -5,3 +5,4 @@ Projeto de um programa com gráficos inteligentes que possa ajudar empresas com 
 # Tecnologias
 []Phyton 
 []Power BI
+[]sql
