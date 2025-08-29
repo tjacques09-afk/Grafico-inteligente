@@ -11,3 +11,6 @@ para um próximo evento dentro da plataforma.
 []sql
 []html
 []css
+# Aprendizado
+Aprendi a desenvolver algo inicial ,sem nunca ter tido contato com a plataforma github.
+Espero poder aprender mais e que torne essa experiência mais incrível.
