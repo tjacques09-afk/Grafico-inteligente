@@ -12,5 +12,4 @@ para um próximo evento dentro da plataforma.
 []html
 []css
 # Aprendizado
-Aprendi a desenvolver algo inicial ,sem nunca ter tido contato com a plataforma github.
-Espero poder aprender mais e que torne essa experiência mais incrível.
+Desenvolvimento de técnicas em phyton combinadas com todo o processo e equipe.
