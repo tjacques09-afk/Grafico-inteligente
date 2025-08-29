@@ -1,6 +1,6 @@
 # Grafico-inteligente
 Automatização de dados
 #
-Projeto de um programa com gráficos inteligentes que possa ajudar empresas com informções precisas.
+Projeto de um programa com gráficos inteligentes que possa ajudar empresas com informações precisas.
 # Tecnologias
 Phyton e Power BI
