@@ -12,4 +12,4 @@ para um próximo evento dentro da plataforma.
 []html
 []css
 # Aprendizado
-Desenvolvimento de técnicas em phyton combinadas com todo o processo e equipe.
+Desenvolvimento de técnicas em phyton combinadas com todo o processo de criação e alinhamento de equipe.
