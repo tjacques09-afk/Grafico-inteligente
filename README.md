@@ -1,4 +1,4 @@
-# Service Now
+# ServiceNow
 ServiceNow é um programa/app mobile,com a proposta de unir um serviço com o profissional e vice e versa.
 Contará com um layout intuitivo,trazendo facilidade para usuários que buscam prestar o serviço postado ou buscar profissionais para tal serviço desejado.
 Funcionará da seguinte forma:
